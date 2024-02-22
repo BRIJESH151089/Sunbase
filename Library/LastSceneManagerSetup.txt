@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Task_2_Brijesh_Sunbase.unity
+- path: Assets/Scenes/Task_1_Brijesh_Sunbase.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
